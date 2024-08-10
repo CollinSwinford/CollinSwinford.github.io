@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/MPD2.jpg.
 title: "Morgans Print Designs"
 date: 2024-08-10
 published: true
