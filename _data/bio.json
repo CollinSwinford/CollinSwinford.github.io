@@ -16,14 +16,14 @@
     { "name": "Game Development" },
     { "name": "Software Development" }
   ],
-  "skills": [
+ "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "HTML5", "CSS3", "C", ]
+      "keywords": [ "HTML5", "CSS3", "C" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub" ]
     }
   ],
   "education": [
@@ -31,63 +31,53 @@
       "institution": "Sullivan University",
       "area": "Computer Science (expected Decemeber, 2024)",
       "studyType": "A.S.",
-      "startDate": "2023-03-27",
+      "startDate": "2023",
       "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Michigan, Ann Arbor, MI",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "1976",
+      "endDate": "1981",
       "courses": [
       ]
     }
   ],
-  "Previous work": [
-    {
-      "company": "United States Navy",
-      "position": "E-3",
-      "website": "",
-      "startDate": "2011-09-15",
-      "endDate": "2015-09-15",
-      "summary": "Service Member",
-      "highlights": [
-        "Operational Support: Provided essential support in daily operations, including equipment maintenance, logistical tasks, and assisting higher-ranking personnel in mission-critical activities.",
-        "Team Collaboration: Worked closely with fellow sailors and superior officers to complete assigned tasks, contributing to the overall mission readiness and operational effectiveness of the unit."
-      ]
-    },
+  "work": [
     {
       "company": "Ford Motor Company - Kentucky Truck Plant (KTP)",
       "position": "Assembly Line Worker",
       "website": "",
-      "startDate": "2016-06-01",
-      "endDate": "2022-08-15",
-      "summary": "Line Work",
+      "startDate": "2016",
+      "endDate": "Present",
+      "summary": "Assembly Line",
       "highlights": [
-        "Assembly Operations: Worked on the assembly line, performing precise and efficient installation of components for [specific vehicle models], adhering to strict quality standards.",
-        "Process Adherence: Followed detailed work instructions and safety protocols to ensure consistent production quality and meet daily production targets."
+        "Performing precise and efficient installation of components for [specific vehicle models], adhering to strict quality standards",
+        "Collaborated with team members to ensure smooth workflow and troubleshoot any issues that arose during production",
+        "",
+        ""
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
+      "organization": "School of Engineering, Blekinge Institute of Technology",
+      "website": "https://www.bth.se/eng/",
+      "position": "Visiting Professor",
+      "startDate": "2006",
       "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
+      "summary": "Research in software engineering"
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
+      "organization": "Distributed Systems Technology Centre, University of Queensland",
+      "website": "https://www.uq.edu.au/",
+      "position": "Senior Research Fellow",
+      "startDate": "1997",
       "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
+      "summary": "Research in computer supported cooperative work"
     }
   ],
   "references": [
