@@ -1,0 +1,14 @@
+---
+layout: essay
+type: essay
+title: "Essay"
+# All dates must be YYYY-MM-DD format!
+date: 2024-08-10
+published: true
+labels:
+  - Learning
+---
+
+<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+
+This is my essay area.
