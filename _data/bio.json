@@ -1,26 +1,20 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Collin Swinford",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
+    "picture": "https://github.com/CollinSwinford.png",
+    "email": "cswinf4703@my.sullivan.edu",
     "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "website": "https://CollinSwinford.github.io",
+    "summary": "I am studying for a Associate of Science in Computer Information Technology at Sullivan University. I expect to graduate in December, 2024.",
+    "location": { "address": "", "postalCode": "40245", "city": "Louisville", "countryCode": "USA", "region": "Kentucky" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "Collin Swinford", "url": "http://github.com/CollinSwinford" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Game Development" },
+    { "name": "Software Development" }
   ],
   "skills": [
     {
