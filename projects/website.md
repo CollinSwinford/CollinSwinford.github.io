@@ -20,3 +20,5 @@ All artwork in this gallery is available for instant digital download. Simply br
 
 Explore the world of Morgans Print Designs and bring their art into your life with just a click.
 
+<img class="img-fluid" src="../img/cotton/cotton-header.png">
+
