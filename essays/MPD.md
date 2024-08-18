@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img width="100px" class="rounded float-start pe-4" src="../img/igniting/MPD1.jpg">
 
 This essay aims to provide an overview of my experience during the development of my Art Website project. From week one through week five, this project involved planning, implementation, testing, and evaluation. This essay will reflect on what challenges I faced week to week, what I was able learn, and the outcome of the project.
 I remember being initially stressed out about the project, looking at the assignment for Week 1 trying to choose which type of project I wanted to do was difficult. I’ve never had to do something like this project before, so it was all new to me. I ended up choosing the website because HTML and CSS is something that I have little experience in, but I’ve played around with it before, and it was kind of interesting. After I decided to develop a website, I started thinking about ideas of what I wanted to create. I ended up choosing an art site because my wife is an artist and I thought it was fun to try and make her a little site. 
