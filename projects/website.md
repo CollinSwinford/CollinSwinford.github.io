@@ -22,4 +22,4 @@ Explore the world of Morgans Print Designs and bring their art into your life wi
 
 <img class="img-fluid" src="../img/cotton/home page.png">
 <img class="img-fluid" src="../img/cotton/about page.png">
-<img class="img-fluid" src="../img/cotton/Services.png">
+<img class="img-fluid" src="../img/cotton/Services page.png">
